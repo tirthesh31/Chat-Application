@@ -1,0 +1,17 @@
+F:\WindowsService\ChatApplicaton2\ChatApplicaton2\obj\Debug\net6.0-windows\ChatApplicaton2.csproj.AssemblyReference.cache
+F:\WindowsService\ChatApplicaton2\ChatApplicaton2\obj\Debug\net6.0-windows\ChatApplicaton2.Form1.resources
+F:\WindowsService\ChatApplicaton2\ChatApplicaton2\obj\Debug\net6.0-windows\ChatApplicaton2.csproj.GenerateResource.cache
+F:\WindowsService\ChatApplicaton2\ChatApplicaton2\obj\Debug\net6.0-windows\ChatApplicaton2.GeneratedMSBuildEditorConfig.editorconfig
+F:\WindowsService\ChatApplicaton2\ChatApplicaton2\obj\Debug\net6.0-windows\ChatApplicaton2.AssemblyInfoInputs.cache
+F:\WindowsService\ChatApplicaton2\ChatApplicaton2\obj\Debug\net6.0-windows\ChatApplicaton2.AssemblyInfo.cs
+F:\WindowsService\ChatApplicaton2\ChatApplicaton2\obj\Debug\net6.0-windows\ChatApplicaton2.csproj.CoreCompileInputs.cache
+F:\WindowsService\ChatApplicaton2\ChatApplicaton2\bin\Debug\net6.0-windows\ChatApplicaton2.exe
+F:\WindowsService\ChatApplicaton2\ChatApplicaton2\bin\Debug\net6.0-windows\ChatApplicaton2.deps.json
+F:\WindowsService\ChatApplicaton2\ChatApplicaton2\bin\Debug\net6.0-windows\ChatApplicaton2.runtimeconfig.json
+F:\WindowsService\ChatApplicaton2\ChatApplicaton2\bin\Debug\net6.0-windows\ChatApplicaton2.dll
+F:\WindowsService\ChatApplicaton2\ChatApplicaton2\bin\Debug\net6.0-windows\ChatApplicaton2.pdb
+F:\WindowsService\ChatApplicaton2\ChatApplicaton2\obj\Debug\net6.0-windows\ChatApplicaton2.dll
+F:\WindowsService\ChatApplicaton2\ChatApplicaton2\obj\Debug\net6.0-windows\refint\ChatApplicaton2.dll
+F:\WindowsService\ChatApplicaton2\ChatApplicaton2\obj\Debug\net6.0-windows\ChatApplicaton2.pdb
+F:\WindowsService\ChatApplicaton2\ChatApplicaton2\obj\Debug\net6.0-windows\ChatApplicaton2.genruntimeconfig.cache
+F:\WindowsService\ChatApplicaton2\ChatApplicaton2\obj\Debug\net6.0-windows\ref\ChatApplicaton2.dll
